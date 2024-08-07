@@ -87,3 +87,15 @@ button{
         margin-bottom: 70px;
     }
 }
+@media(max-width: 335px){
+    .container{
+        margin-left: 120px;
+        margin-bottom: 70px;
+    }
+}
+@media(max-width: 413px){
+    .container{
+        margin-left: 120px;
+        margin-bottom: 70px;
+    }
+}
