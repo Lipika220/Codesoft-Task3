@@ -7,7 +7,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    height: 100vh;
     background-color: white;
 }
 main{
@@ -25,7 +25,7 @@ main{
 }
 button{
     width: 50px;
-    height: 50px;
+    height: 60px;
     font-size: 18px;
     font-weight: 800;
     margin: 8px;
@@ -75,7 +75,7 @@ button{
     background-color: #aa4335;
 }
 .equalbtn{
-    color: blue;
+    color: #aa4335;
 }
 .equalbtn:hover{
     color: white;
